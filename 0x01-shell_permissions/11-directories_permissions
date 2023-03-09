@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bassh
 chmod -R ugo+x .
